@@ -46,9 +46,9 @@ customers sorted by user_id.
 
 To upload the file via cURL, use the following command:
 
-curl -X POST http://localhost:3000/api/v1/customers/invite \\
+> curl -X POST http://localhost:3000/api/v1/customers/invite \\
 
--F \"file=@path/to/customers.txt\"
+> -F \"file=@path/to/customers.txt\"
 
 #### Successful Response (200 OK)
 

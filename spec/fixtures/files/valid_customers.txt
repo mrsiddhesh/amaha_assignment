@@ -1,0 +1,3 @@
+{"user_id": 1, "name": "Vivaan Sharma", "latitude": "-68.850431", "longitude": "-35.814792"}
+{"user_id": 2, "name": "Aditya Singh", "latitude": "82.784317", "longitude": "-11.291294"}
+{"user_id": 25, "name": "Pratik", "latitude": "19.059507", "longitude": "72.851108"}
